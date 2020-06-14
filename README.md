@@ -39,6 +39,10 @@ On top of the original project I added some nice feature. Please check them belo
 5) Run `tsc` to compile typescript files into js.
 6) Open `index.html` with your favorite browser and have fun! :)
 
+## Live Preview
+
+Click [here](https://htmlpreview.github.io/?https://github.com/MuriloMarquesSantos/simple-pokedex/blob/master/index.html) for a live preview
+
 
 ## Contact
 
